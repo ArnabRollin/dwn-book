@@ -58,7 +58,7 @@ dwn.exe run code.dwn
 (PowerShell)
 
 ```powershell
-& "dwn.exe" "--help"
+& "dwn.exe" "run" "code.dwn"
 ```
 
 ## Result

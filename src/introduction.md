@@ -6,7 +6,7 @@
 - Operators
 - Loops
 - If blocks
-- Functions (function creation not implemented yet)
+- Custom Functions (without arguments)
 
 This guide is intended to help you get started with Dawn.
 
